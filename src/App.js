@@ -7,6 +7,8 @@ import { createContext, useState } from "react";
 import Login from "./Components/Login"
 import Home from "./Components/Home"
 import Details from './Components/Details';
+import Admin from './Components/Admin';
+export const UserContent = createContext();
 function App() {
   localStorage.setItem("listuser",JSON.stringify(userlist))
   localStorage.setItem("listmovie",JSON.stringify(movielist))
@@ -16,7 +18,8 @@ function App() {
 					<Routes>
 						<Route path="/" element={<Home />} />
 						<Route path="/login" element={<Login />} />
-            <Route path="/detail" element={<Details />} />
+            			<Route path="/detail" element={<Details />} />
+						<Route path="/admin" element={<Admin />} />
 					</Routes>
 				</div>
 			</Router>
