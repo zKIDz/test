@@ -1,0 +1,298 @@
+[
+    {
+        "id":1,
+        "category":"Hành Động",
+        "list_movies":[
+            {
+                "mid":1,
+                "name":"Avengers: Endgame",
+                "img":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/863E75A035911DBA10F8D7EE1E433A12A1BF4915670B66597AC31C585A291942/scale?width=1200&aspectRatio=1.78&format=jpeg",
+                "description":"",
+                "score":6,
+                "vote":[{
+                    "vid":1,
+                    "rate":4,
+                    "comment":"Phim không hay như mong đợi",
+                    "userID":2
+                },
+                {
+                    "vid":2,
+                    "rate":8,
+                    "comment":"Siêu phẩm bùng nổ quá",
+                    "userID":1
+                },
+                {
+                    "vid":3,
+                    "rate":6,
+                    "comment":"Rất đáng để xem",
+                    "userID":3
+                }
+            ]
+                
+            },
+            {
+                "mid":2,
+                "name":"Black Adam",
+                "img":"https://upload.wikimedia.org/wikipedia/vi/d/d2/Poster_phim_Black_Adam.jpg",
+                "description":"",
+                "score":6,
+                "vote":[{
+                    "vid":1,
+                    "rate":4,
+                    "comment":"Phim không hay như mong đợi",
+                    "userID":2
+                },
+                {
+                    "vid":2,
+                    "rate":8,
+                    "comment":"Siêu phẩm bùng nổ quá",
+                    "userID":1
+                },
+                {
+                    "vid":3,
+                    "rate":6,
+                    "comment":"Rất đáng để xem",
+                    "userID":3
+                }
+            ] 
+            }
+        ]
+    },
+    {
+        "id":2,
+        "category":"Anime",
+        "list_movies":[
+            {
+                "mid":1,
+                "name":"One Piece",
+                "img":"http://pic0.iqiyipic.com/image/20211206/f2/2e/a_100421840_m_601_en_m1_1013_638.jpg",
+                "description":"",
+                "score":8,
+                "vote":[{
+                    "vid":1,
+                    "rate":9,
+                    "comment":"Mãi yêu OP",
+                    "userID":2
+                },
+                {
+                    "vid":2,
+                    "rate":8,
+                    "comment":"Siêu phẩm bùng nổ quá",
+                    "userID":1
+                },
+                {
+                    "vid":3,
+                    "rate":7,
+                    "comment":"Rất đáng để xem",
+                    "userID":3
+                }
+            ]
+                
+            },
+            {
+                "mid":2,
+                "name":"Naruto",
+                "img":"https://image.lag.vn/upload/news/22/08/03/anime-naruto-thay-doi-nganh-cong-nghiep-hoat-hinh-1_RXIO.jpg",
+                "description":"",
+                "score":7,
+                "vote":[{
+                    "vid":1,
+                    "rate":5,
+                    "comment":"Phim không hay như mong đợi",
+                    "userID":2
+                },
+                {
+                    "vid":2,
+                    "rate":9,
+                    "comment":"Siêu phẩm bùng nổ quá",
+                    "userID":4
+                },
+                {
+                    "vid":3,
+                    "rate":7,
+                    "comment":"Rất đáng để xem",
+                    "userID":5
+                }
+            ] 
+            }
+        ]
+    },
+    {
+        "id":3,
+        "category":"Tình cảm",
+        "list_movies":[
+            {
+                "mid":1,
+                "name":"Khi nàng say giấc",
+                "img":"https://upload.wikimedia.org/wikipedia/vi/e/e5/While_You_Were_Sleeping_2017_Poster.jpg",
+                "description":"",
+                "score":8,
+                "vote":[{
+                    "vid":1,
+                    "rate":9,
+                    "comment":"Lee Jong Suk đẹp trai quá",
+                    "userID":5
+                },
+                {
+                    "vid":2,
+                    "rate":8,
+                    "comment":"Yêu Suzy nhất",
+                    "userID":4
+                },
+                {
+                    "vid":3,
+                    "rate":7,
+                    "comment":"Bao giờ có phần 2 vậy?",
+                    "userID":1
+                }
+            ]
+                
+            },
+            {
+                "mid":2,
+                "name":"Bật lửa và váy công chúa",
+                "img":"https://static2.vieon.vn/vieplay-image/poster_v4/2022/10/21/jd2x8trd_660x946-chiecbatluavavaycongchua.png",
+                "description":"",
+                "score":6,
+                "vote":[{
+                    "vid":1,
+                    "rate":3,
+                    "comment":"Phim không hay như mong đợi",
+                    "userID":2
+                },
+                {
+                    "vid":2,
+                    "rate":7,
+                    "comment":"Ngọt chảy nước",
+                    "userID":4
+                },
+                {
+                    "vid":3,
+                    "rate":8,
+                    "comment":"Giá như nam phụ có kết đẹp hơn",
+                    "userID":5
+                }
+            ] 
+            }
+        ]
+    },
+    {
+        "id":4,
+        "category":"Kinh dị",
+        "list_movies":[
+            {
+                "mid":1,
+                "name":"The Nun 2",
+                "img":"https://simg.zalopay.com.vn/zlp-website/assets/phim_kinh_di_my_hay_nhat_The_Nun_6c798b2df8.jpg",
+                "description":"",
+                "score":9,
+                "vote":[{
+                    "vid":1,
+                    "rate":10,
+                    "comment":"Xem phim xong mà bay mất linh hồn",
+                    "userID":5
+                },
+                {
+                    "vid":2,
+                    "rate":8,
+                    "comment":"Mô phật",
+                    "userID":4
+                },
+                {
+                    "vid":3,
+                    "rate":9,
+                    "comment":"Bao giờ có phần 2 vậy?",
+                    "userID":1
+                }
+            ]
+                
+            },
+            {
+                "mid":2,
+                "name":"Sinister",
+                "img":"https://bazaarvietnam.vn/wp-content/uploads/2021/07/phim-kinh-di-hay-nhat-moi-thoi-dai-diem-go-e1626883969245.jpeg",
+                "description":"",
+                "score":7,
+                "vote":[{
+                    "vid":1,
+                    "rate":4,
+                    "comment":"Phim không hay như mong đợi",
+                    "userID":2
+                },
+                {
+                    "vid":2,
+                    "rate":9,
+                    "comment":"Kinh khủng quá",
+                    "userID":4
+                },
+                {
+                    "vid":3,
+                    "rate":8,
+                    "comment":"Giá như như có thể đặc sắc hơn",
+                    "userID":5
+                }
+            ] 
+            }
+        ]
+    },
+    {
+        "id":5,
+        "category":"Hài",
+        "list_movies":[
+            {
+                "mid":1,
+                "name":"TSiêu lừa gặp siêu lầy",
+                "img":"https://upload.wikimedia.org/wikipedia/vi/b/b1/%C3%81p_ph%C3%ADch_Si%C3%AAu_l%E1%BB%ABa_g%E1%BA%B7p_si%C3%AAu_l%E1%BA%A7y.jpg",
+                "description":"",
+                "score":9,
+                "vote":[{
+                    "vid":1,
+                    "rate":10,
+                    "comment":"Phim Việt Nam bây giờ hay quá",
+                    "userID":5
+                },
+                {
+                    "vid":2,
+                    "rate":8,
+                    "comment":"Mạc Văn Khoa diễn có duyên ghê, đúng là nghệ sĩ thực lực",
+                    "userID":3
+                },
+                {
+                    "vid":3,
+                    "rate":9,
+                    "comment":"Bao giờ có phần 2 vậy?",
+                    "userID":2
+                }
+            ]
+                
+            },
+            {
+                "mid":2,
+                "name":"Dân chơi không sợ con rơi",
+                "img":"https://kenh14cdn.com/thumb_w/660/203336854389633024/2022/8/1/fb-1659339444316779855803.png",
+                "description":"",
+                "score":7,
+                "vote":[{
+                    "vid":1,
+                    "rate":8,
+                    "comment":"Phim hài lắm mọi người ạ",
+                    "userID":2
+                },
+                {
+                    "vid":2,
+                    "rate":9,
+                    "comment":"Rớt nước mắt mấy lần luôn",
+                    "userID":4
+                },
+                {
+                    "vid":3,
+                    "rate":8,
+                    "comment":"Đoạn đầu thì cười còn cuối lại phải khóc",
+                    "userID":5
+                }
+            ] 
+            }
+        ]
+    }
+    
+]

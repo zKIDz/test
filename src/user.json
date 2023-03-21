@@ -1,0 +1,9 @@
+
+[
+    {"userID":1,"username":"LuongHuy","password":"123abc","role":1},
+    {"userID":2,"username":"TienQuan","password":"123abc","role":0},
+    {"userID":3,"username":"MinhLi","password":"123abc","role":0},
+    {"userID":4,"username":"DuyTruong","password":"123abc","role":0},
+    {"userID":5,"username":"KhucHanh","password":"123abc","role":0},
+    {"userID":6,"username":"TungDuong","password":"123abc","role":1}
+]
