@@ -1,6 +1,7 @@
 import React, { useContext, useEffect, useRef, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { UserContent } from "../App";
+import "./style.css"
 const Login = () => {
     const [account, setAccount] = useState([]);
 	const passRef = useRef();
@@ -10,6 +11,7 @@ const Login = () => {
    let login=()=>{
         const username = nameRef.current.value;
 		const password = passRef.current.value;
+        localStorage.setItem("accsessToken",true)
         if(!username || !password){
             return window.alert("Please enter all input");
         }
@@ -22,22 +24,25 @@ const Login = () => {
         if (!some &&!some1) {
 			return window.alert("Username or password is not correct");
 		}
-        if(some){
+        if(some && !some1){
             navigate("/");
+            localStorage.setItem("accsessToken",false)
         }
-       else navigate("/admin");
+       if(some1) {
+        navigate("/admin");
+       }
     }
         return(
             <>
-            <div>
+            <div className="cover">
+                <h1>Login</h1>
                 <label>Username:</label>
                 <input ref={nameRef} type="text" />
-            </div>
-            <div>
                 <label>Password:</label>
                 <input ref={passRef} type="password" />
+                <div><button type="submit" onClick={login}>Login</button></div>
             </div>
-            <div><button type="submit" onClick={login}>Login</button></div>
+            
             </>
         )
     }

@@ -9,6 +9,7 @@
                 "img":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/863E75A035911DBA10F8D7EE1E433A12A1BF4915670B66597AC31C585A291942/scale?width=1200&aspectRatio=1.78&format=jpeg",
                 "description":"",
                 "score":6,
+                "category":"Hành Động",
                 "vote":[{
                     "vid":1,
                     "rate":4,
@@ -36,6 +37,7 @@
                 "img":"https://upload.wikimedia.org/wikipedia/vi/d/d2/Poster_phim_Black_Adam.jpg",
                 "description":"",
                 "score":6,
+                "category":"Hành Động",
                 "vote":[{
                     "vid":1,
                     "rate":4,
@@ -68,6 +70,7 @@
                 "img":"http://pic0.iqiyipic.com/image/20211206/f2/2e/a_100421840_m_601_en_m1_1013_638.jpg",
                 "description":"",
                 "score":8,
+                "category":"Anime",
                 "vote":[{
                     "vid":1,
                     "rate":9,
@@ -95,6 +98,7 @@
                 "img":"https://image.lag.vn/upload/news/22/08/03/anime-naruto-thay-doi-nganh-cong-nghiep-hoat-hinh-1_RXIO.jpg",
                 "description":"",
                 "score":7,
+                "category":"Anime",
                 "vote":[{
                     "vid":1,
                     "rate":5,
@@ -127,6 +131,7 @@
                 "img":"https://upload.wikimedia.org/wikipedia/vi/e/e5/While_You_Were_Sleeping_2017_Poster.jpg",
                 "description":"",
                 "score":8,
+                "category":"Tình cảm",
                 "vote":[{
                     "vid":1,
                     "rate":9,
@@ -154,6 +159,7 @@
                 "img":"https://static2.vieon.vn/vieplay-image/poster_v4/2022/10/21/jd2x8trd_660x946-chiecbatluavavaycongchua.png",
                 "description":"",
                 "score":6,
+                "category":"Tình cảm",
                 "vote":[{
                     "vid":1,
                     "rate":3,
@@ -186,6 +192,7 @@
                 "img":"https://simg.zalopay.com.vn/zlp-website/assets/phim_kinh_di_my_hay_nhat_The_Nun_6c798b2df8.jpg",
                 "description":"",
                 "score":9,
+                "category":"Kinh dị",
                 "vote":[{
                     "vid":1,
                     "rate":10,
@@ -213,6 +220,7 @@
                 "img":"https://bazaarvietnam.vn/wp-content/uploads/2021/07/phim-kinh-di-hay-nhat-moi-thoi-dai-diem-go-e1626883969245.jpeg",
                 "description":"",
                 "score":7,
+                "category":"Kinh dị",
                 "vote":[{
                     "vid":1,
                     "rate":4,
@@ -245,6 +253,7 @@
                 "img":"https://upload.wikimedia.org/wikipedia/vi/b/b1/%C3%81p_ph%C3%ADch_Si%C3%AAu_l%E1%BB%ABa_g%E1%BA%B7p_si%C3%AAu_l%E1%BA%A7y.jpg",
                 "description":"",
                 "score":9,
+                "category":"Hài",
                 "vote":[{
                     "vid":1,
                     "rate":10,
@@ -272,6 +281,7 @@
                 "img":"https://kenh14cdn.com/thumb_w/660/203336854389633024/2022/8/1/fb-1659339444316779855803.png",
                 "description":"",
                 "score":7,
+                "category":"Hài",
                 "vote":[{
                     "vid":1,
                     "rate":8,
