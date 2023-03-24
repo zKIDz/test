@@ -8,6 +8,8 @@ import Login from "./Components/Login"
 import Home from "./Components/Home"
 import Details from './Components/Details';
 import Admin from './Components/Admin';
+import SignupPage from './Components/SignupPage';
+import Test from './Components/test';
 export const UserContent = createContext();
 function App() {
   localStorage.setItem("listuser",JSON.stringify(userlist))
@@ -20,6 +22,8 @@ function App() {
 						<Route path="/login" element={<Login />} />
             			<Route path="/detail" element={<Details />} />
 						<Route path="/admin" element={<Admin />} />
+						<Route path="/register" element={<SignupPage />} />
+						<Route path='/test' element={<Test/>}/>
 					</Routes>
 				</div>
 			</Router>

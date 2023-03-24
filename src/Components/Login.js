@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useRef, useState } from "react";
-import { useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { UserContent } from "../App";
 import "./style.css"
 const Login = () => {
@@ -41,6 +41,9 @@ const Login = () => {
                 <label>Password:</label>
                 <input ref={passRef} type="password" />
                 <div><button type="submit" onClick={login}>Login</button></div>
+                <div>
+                    <Link to="/register">Đăng kí tài khoản mới</Link>
+                </div>
             </div>
             
             </>
